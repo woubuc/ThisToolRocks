@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R",
+    "S "
+  ],
+  "key": {
+    "R": { "item": "rocks:cobblestone_splitter" },
+    "S": { "tag": "forge:rods/wooden" }
+  },
+  "result": {
+    "item": "rocktools:crude_axe_cobblestone"
+  }
+}

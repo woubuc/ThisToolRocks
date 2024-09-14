@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "rocktools:item/crude_axe_red_sandstone"
+  }
+}
